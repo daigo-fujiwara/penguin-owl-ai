@@ -1,2 +1,2 @@
-# penguin-owl-ai
-ペンギンとフクロウを見分けるAI
+# Penguin vs Owl Classifier
+PyTorch（転移学習）を使用して、ペンギンとフクロウを判別するAIプロジェクトです。
